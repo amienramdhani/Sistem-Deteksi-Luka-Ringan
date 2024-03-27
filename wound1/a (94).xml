@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Data Luka Baru</folder>
+	<filename>a (94).jpg</filename>
+	<path>D:\amien\Berkas Bangkit\capstone\dataset_luka\Data Luka Baru\a (94).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Luka Sayat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>64</ymin>
+			<xmax>123</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Luka Sayat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>90</ymin>
+			<xmax>115</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Luka Sayat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>72</ymin>
+			<xmax>106</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Abrasions</folder>
+	<filename>abrasions (35).jpg</filename>
+	<path>D:\amien\Berkas Bangkit\capstone\dataset_luka\Wound_dataset\Abrasions\abrasions (35).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Luka Lecet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>276</ymin>
+			<xmax>345</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Luka Lecet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>306</ymin>
+			<xmax>331</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

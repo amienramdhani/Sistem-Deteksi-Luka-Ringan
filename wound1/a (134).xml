@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Data Luka Baru</folder>
+	<filename>a (134).jpg</filename>
+	<path>D:\amien\Berkas Bangkit\capstone\dataset_luka\Data Luka Baru\a (134).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1296</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Luka Lecet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>475</xmin>
+			<ymin>248</ymin>
+			<xmax>561</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

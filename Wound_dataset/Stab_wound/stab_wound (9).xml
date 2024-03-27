@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stab_wound</folder>
+	<filename>stab_wound (9).jpg</filename>
+	<path>D:\amien\Berkas Bangkit\capstone\dataset_luka\Wound_dataset\Stab_wound\stab_wound (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Luka Tusuk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>436</ymin>
+			<xmax>341</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

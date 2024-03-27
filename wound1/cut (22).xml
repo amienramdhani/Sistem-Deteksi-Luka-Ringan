@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cut</folder>
+	<filename>cut (22).jpg</filename>
+	<path>D:\amien\Berkas Bangkit\capstone\dataset_luka\Wound_dataset\Cut\cut (22).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Luka Sayat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>263</ymin>
+			<xmax>375</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>
